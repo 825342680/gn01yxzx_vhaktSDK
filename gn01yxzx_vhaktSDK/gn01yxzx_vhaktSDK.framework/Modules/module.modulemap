@@ -1,0 +1,6 @@
+framework module gn01yxzx_vhaktSDK {
+  umbrella header "gn01yxzx_vhaktSDK.h"
+
+  export *
+  module * { export * }
+}
