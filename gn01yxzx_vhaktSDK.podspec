@@ -21,6 +21,6 @@ s.xcconfig = {
 'VALID_ARCHS' =>  'arm64 x86_64',
 }
 
-s.dependency "gn01PublicFileSDK","1.0.4"
+s.dependency "gn01PublicFileSDK","1.0.7"
 
 end
