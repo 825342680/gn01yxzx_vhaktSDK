@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name = 'gn01yxzx_vhaktSDK'
-s.version = '1.3.9'
+s.version = '1.4.0'
 s.license = 'MIT'
 s.summary = 'An Animate Water view on iOS.'
 s.homepage = 'https://github.com/825342680/gn01yxzx_vhaktSDK'
